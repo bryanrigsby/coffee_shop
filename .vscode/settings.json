@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "libsql://coffeeshop-bryanrigsby.turso.io",
+            "database": "coffeeshop"
+        }
+    ]
+}
